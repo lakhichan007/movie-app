@@ -1,0 +1,21 @@
+#header-container{
+    width: 98vw;
+    height:16vh;
+    margin: 0px auto;
+    background-color: darkcyan;
+    display: flex;
+    align-items: center;
+}
+h1{
+    color:darksalmon;
+    position: relative;
+    left:200px;
+}
+#search-box{
+    height: 24px;
+    width: 400px;
+    border-radius: 8px;
+    border: 1px solid green;
+    position: relative;
+    left: 500px;
+}
